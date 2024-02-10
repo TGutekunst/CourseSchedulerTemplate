@@ -1,4 +1,6 @@
 # Java Schedule Builder
+3-Tier Implementation of a University Schedule Builder
+
 ## Overview:
 Java Schedule Builder is a comprehensive scheduling application developed as the final project for an object-oriented web design class in Java. Leveraging Apache NetBeans and Derby, and adhering to UML and three-tier programming principles, the project received a perfect score of 100%.
 
